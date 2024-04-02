@@ -1,4 +1,5 @@
 syntax on
+sey nu
 colorscheme wombat256mod
 set ic
 set hlsearch
