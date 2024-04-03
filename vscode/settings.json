@@ -18,5 +18,6 @@
       "github.gitAuthentication": false,
       "git.terminalAuthentication": false,
       "editor.autoClosingBrackets": "never",
-      "explorer.autoReveal": false
+      "explorer.autoReveal": false,
+      "workbench.editor.enablePreview": false
 }
