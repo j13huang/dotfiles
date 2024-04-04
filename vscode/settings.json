@@ -15,6 +15,10 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode",
         "editor.formatOnSave": true
       },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+      },
       "github.gitAuthentication": false,
       "git.terminalAuthentication": false,
       "editor.autoClosingBrackets": "never",
