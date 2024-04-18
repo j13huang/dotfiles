@@ -23,5 +23,6 @@
       "git.terminalAuthentication": false,
       "editor.autoClosingBrackets": "never",
       "explorer.autoReveal": false,
-      "workbench.editor.enablePreview": false
+      "workbench.editor.enablePreview": false,
+      "vim.hlsearch": true
 }
