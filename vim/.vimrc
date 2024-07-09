@@ -7,3 +7,5 @@ nnoremap j gj
 nnoremap gj j
 nnoremap k gk
 nnoremap gk k
+set re=0
+set foldmethod=syntax
