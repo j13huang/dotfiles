@@ -19,10 +19,14 @@
         "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.formatOnSave": true
       },
+    "[json]": {
+          "editor.defaultFormatter": "vscode.json-language-features"
+        },
       "github.gitAuthentication": false,
       "git.terminalAuthentication": false,
       "editor.autoClosingBrackets": "never",
       "explorer.autoReveal": false,
       "workbench.editor.enablePreview": false,
-      "vim.hlsearch": true
+      "vim.hlsearch": true,
+      "git.enableStatusBarSync": false
 }
